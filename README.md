@@ -2,7 +2,7 @@
 
 # Gereksinimler
 Java 11,
-Maven 3
+Maven 4
 
 # Kullanım
 
